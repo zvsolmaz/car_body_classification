@@ -1,0 +1,17 @@
+Test Loss: 0.2254
+Test Accuracy: 94.61%
+
+                 precision    recall  f1-score   support
+
+ACIK_TEKERLEKLI     0.9942    1.0000    0.9971       170
+      HATCHBACK     0.9384    0.8059    0.8671       170
+          MICRO     0.8983    0.9815    0.9381        54
+        PICK_UP     0.9765    0.9765    0.9765       170
+          SEDAN     0.9000    0.9529    0.9257       170
+  STATION_WAGON     0.9349    0.9294    0.9322       170
+            SUV     0.9000    0.9529    0.9257       170
+            VAN     1.0000    0.9941    0.9971       170
+
+       accuracy                         0.9461      1244
+      macro avg     0.9428    0.9492    0.9449      1244
+   weighted avg     0.9469    0.9461    0.9456      1244
