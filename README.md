@@ -5,13 +5,13 @@ Bu proje, araç görüntülerinden **8 farklı gövde tipini** (SUV, Van, Statio
 ## 📊 Ekran Görüntüleri
 
 ### Görüntü Yükleme ve Tahmin Sonucu
-![Streamlit Arayüzü - Tahmin](images/streamlit_prediction.png)
+![Streamlit Arayüzü - Tahmin](images/Ekran%20görüntüsü%202026-07-08%20215507.png)
 
 ### Olasılık Dağılımı ve Güven Skoru
-![Olasılık Dağılımı](images/probability_distribution.png)
+![Olasılık Dağılımı](images/Ekran%20görüntüsü%202026-07-08%20215517.png)
 
 ### Desteklenen Sınıflar Paneli
-![Desteklenen Sınıflar](images/supported_classes.png)
+![Desteklenen Sınıflar](images/Ekran%20görüntüsü%202026-07-08%20215527.png)
 
 ---
 
@@ -111,13 +111,13 @@ This project is a deep learning system that automatically classifies vehicle ima
 ## 📊 Screenshots
 
 ### Image Upload and Prediction Result
-![Streamlit Interface - Prediction](images/streamlit_prediction.png)
+![Streamlit Interface - Prediction](images/Ekran%20görüntüsü%202026-07-08%20215507.png)
 
 ### Probability Distribution and Confidence Score
-![Probability Distribution](images/probability_distribution.png)
+![Probability Distribution](images/Ekran%20görüntüsü%202026-07-08%20215517.png)
 
 ### Supported Classes Panel
-![Supported Classes](images/supported_classes.png)
+![Supported Classes](images/Ekran%20görüntüsü%202026-07-08%20215527.png)
 
 ---
 
